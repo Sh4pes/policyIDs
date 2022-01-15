@@ -1,5 +1,11 @@
 [
   {
+    "project": "ElementZ - EZ 3DEEZ - ALPHA",
+    "policies": [
+      "53b77fe723c5450e22d1622d2c1da10d0f75f4d19b36c513629ea8f6"
+    ]
+  },
+  {
     "project": "ElementZ - SonicBytes - AlphaSeries1 - SomeTwist",
     "policies": [
       "db3b809f2cb1076e2120aa5fcb81326ab048f461fc05b86d3b169439"
@@ -34,7 +40,37 @@
     "policies": [
       "3242b5719aae2894c7103ec0a28e59d66fa979deb22724b15772fbb5"
     ]
-  },       
+  },
+  {
+    "project": "ElementZ - GANArt - 21 OCEAN",
+    "policies": [
+      "4b8020ce91a35ad0ae25f24f1650bbefc30028323c5f60095eb3a95f"
+    ]
+  },
+  {
+    "project": "ElementZ - GANArt - 21 FOREST",
+    "policies": [
+      "2c813b27da9f29831c53225f462ac5e95369deb90f37aba1d6cfe438"
+    ]
+  },
+  {
+    "project": "ElementZ - GANArt - 21 ISLAND",
+    "policies": [
+      "c274c3f83d86a9ff448799ffb802d25215fec8a04bffe37c6a1421d4"
+    ]
+  },
+  {
+    "project": "ElementZ - PocketTrip - Series1",
+    "policies": [
+      "d76c657ffc64819f4f4fef084e1d7e72a54e3e71535ee393c30225c5"
+    ]
+  },  
+  {
+    "project": "ElementZ - EZ XMAS21",
+    "policies": [
+      "3cba9d7a39ebe7b8af5a32bb963cedea413b2042938982b1a5da0178"
+    ]
+  },     
   {
     "project": "ElementZ - FractalBlocks - Series1",
     "policies": [
@@ -144,9 +180,27 @@
     ]
   },
   {
+    "project": "ElementZ - FractalBlocks - Limited - Space Debris",
+    "policies": [
+      "75ccedb7e4d269f31da28c0945bf817b314ac788dc3b29b7f6a0b528"
+    ]
+  },
+  {
     "project": "ElementZ - FractalBlocks - Limited - Milky Way",
     "policies": [
       "1f22846ef25807bb2282adf620c996ccd9dd73952d2463fc2895ad96"
     ]
-  }  
+  },
+  {
+    "project": "ElementZ - FractalBlocks - Limited - Milky Way",
+    "policies": [
+      "1f22846ef25807bb2282adf620c996ccd9dd73952d2463fc2895ad96"
+    ]
+  },
+  {
+    "project": "Claybies The Zebra - 2021",
+    "policies": [
+      "d42ad979d56a3e61f44c4a62589d70a911653f856bf7f250af5f4155"
+    ]
+  }   
 ]
